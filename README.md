@@ -1,5 +1,5 @@
 <div id="" align="center">
-    <img src="https://joseleoncodes.com/img\custom\jose-leon-banner.png" width="100%"/>
+    <img src="https://joseleoncodes.com/img/custom/jose-leon-banner.png" width="100%"/>
   </div>
   <h1 align="center">Hi 👋, I'm Jose Leon</h1>
   <h3 align="center">A Web Content Editor from Baltimore, MD</h3>
