@@ -23,7 +23,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="75" height="75"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="75" height="75"/> 
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                        <img src="https://joseleoncodes.com/img\custom\google_analytics_logo.svg" alt="Google Analytics" width="75" height="75"/> 
+                        <img src="https://joseleoncodes.com/img/custom/google_analytics_logo.svg" alt="Google Analytics" width="75" height="75"/> 
                       </div>
   </div>
   
