@@ -11,7 +11,7 @@
   <!-- TECHS -->
   
   <h2 align="center">Skills</h2>
-  
+  <br>
   <div align="center">
                   <br>
                       <div align="center" >  
@@ -25,7 +25,6 @@
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                         <img src="https://joseleoncodes.com/img\custom\google_analytics_logo.svg" alt="Google Analytics" width="75" height="75"/> 
                       </div>
-                       <br>
   </div>
   
   <br>
