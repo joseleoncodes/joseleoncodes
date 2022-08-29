@@ -11,7 +11,7 @@
   <!-- TECHS -->
   
   <h2 align="center">Skills</h2>
-  <br>
+  
   <div align="center">
                   <br>
                       <div align="center" >  
