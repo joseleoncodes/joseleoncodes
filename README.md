@@ -146,10 +146,10 @@
   <!-- <h6 style="color:red">These stats are only for public repos. It does not show private stats on projects for previous employers and clients.</h6> -->
   <h6 style="color:red">These stats are only for public repos. It does not show private stats on projects.</h6>
   
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseleoncodes&show_icons=true&locale=en&layout=compact" alt="joseleoncodesdotcom" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseleoncodesdotcom&show_icons=true&locale=en&layout=compact" alt="joseleoncodesdotcom" /></p>
   
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseleoncodes&show_icons=true&locale=en" alt="joseleoncodesdotcom" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseleoncodesdotcom&show_icons=true&locale=en" alt="joseleoncodesdotcom" /></p>
   
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseleoncodes&" alt="joseleoncodesdotcom" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseleoncodesdotcom&" alt="joseleoncodesdotcom" /></p>
   </div>
   <br>
