@@ -9,7 +9,7 @@
   <hr>
   
   
-  <!-- TECHS -->
+<!-- TECHS -->
   
   <h2 align="center">Skills</h2>
  
@@ -18,7 +18,7 @@
                       <div align="center" >  
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75" height="75"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75" height="75"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce" width="75" height="75"/>                        
+                        <img src="https://joseleoncodes.com/img/custom/Salesforce_logo.png" alt="Salesforce" width="75" height="75"/>                        
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="75" height="75"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="Wordpress" width="75" height="75"/>
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
