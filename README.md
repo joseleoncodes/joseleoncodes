@@ -4,8 +4,7 @@
   <h1 align="center">Hi 👋, I'm Jose Leon</h1>
   <h3 align="center">An Email Developer from Baltimore, MD</h3>
   <h4 align="center">With knowledge of HTML, CSS, Salesforce, HTML Tables, CAN-SPAM, and Web Content Accessibility Guidelines (WCAG) who creates, proofs, tests, and troubleshoots responsive emails and templates across different mobile devices and email clients and performs quality assurance testing. 
-  <br> <br>I have expertise in healthcare and an MBA. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars. 
-  <br> <br>Some of my prior work experience includes working at Johns Hopkins and University of Maryland.</h4>
+  <br> <br>I have expertise in healthcare and an MBA. Some of my prior work experience includes working at Johns Hopkins and the University of Maryland. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars.</h4>
   
   <hr>
   
