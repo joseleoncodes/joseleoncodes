@@ -4,7 +4,7 @@
   <h1 align="center">Hi 👋, I'm Jose Leon</h1>
   <h3 align="center">An Email Developer from Baltimore, MD</h3>
   <h4 align="center">With knowledge of HTML, CSS, Salesforce, HTML Tables, CAN-SPAM, and Web Content Accessibility Guidelines (WCAG) who creates, proofs, tests, and troubleshoots responsive emails and templates across different mobile devices and email clients and performs quality assurance testing. 
-  <br> <br>I have expertise in healthcare and an MBA. Some of my prior work experience includes working at Johns Hopkins and the University of Maryland. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars.</h4>
+    <br> <br>I have expertise in healthcare and an MBA. Some of my prior work experience includes working at Johns Hopkins and the University of Maryland. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars</h4>
   
   <hr>
   
@@ -16,14 +16,15 @@
   <div align="center">
                   <br>
                       <div align="center" >  
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75" height="75"/> 
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75" height="75"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce" width="75" height="75"/>                        
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="75" height="75"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="Wordpress" width="75" height="75"/>
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="75" height="75"/> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="75" height="75"/> 
-                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="75" height="75"/> 
                         <img src="https://joseleoncodes.com/img/custom/google_analytics_logo.svg" alt="Google Analytics" width="75" height="75"/> 
                       </div>
                       <br>
