@@ -39,88 +39,89 @@
   <div align="center">
       <table>
           <tr>
-              <td width="50%">
-                  <h3 align="center">Project 1</h3>
-                  <div align="center">  
-                      <a href='https://alpha.joseleoncodes.com/' target="_blank">
-                          <img src="https://joseleoncodes.com/img/custom/alpha_radiology_thumbnail_sq.jpg" alt="project 1" height="100%" />
-                      </a>
-                      <br>
-                      <br>
-                      <p>
-                          <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/alpha-radiology" target="_blank">
-                              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-                          </a>  
-                          <a href="https://alpha.joseleoncodes.com/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                          </a>
-                      </p>
-                      <p><strong>WordPress (Elementor)</strong></p>
-            <p>The Alpha Radiology website was inspired by outpatient Radiology Diagnostic Center websites, and it was named after a type of radiation “alpha particles”.</p>
-                  </div>
-              </td>
-              <td width="50%">
-                  <h3 align="center">Project 2</h3>
-                  <div align="center" >  
-                      <a href='https://candles.joseleoncodes.com/' target="_blank">
-                          <img src="https://joseleoncodes.com/img/custom/candles_thumbnail_sq.jpg" alt="project 2" height="100%" />
-                      </a>
-                      <br>
-                      <br>
-                      <p>
-                          <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/candles" target="_blank">
-                              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-                          </a>  
-                          <a href="https://candles.joseleoncodes.com/" target="_blank">
-                              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                          </a>	
-                      </p>
-                       <p><strong>WordPress (Elementor)</strong></p>
-                      <p>The Candles Landing Page is a marketing landing page promoting the sales of a candle making course.</p>
-                  </div>
-          </tr>
-          <!-- <tr>
-              <td width="50%">
-                  <h3 align="center">Project 3</h3>
-                  <div align="center" >  
-                      <a href='https://codingphase.com' target="_blank">
-                          <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
-                      </a>
-                      <br>
-                      <br>
-                      <p>
-                          <a href="https://codingphase.com" target="_blank">
-                              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-                          </a>  
-                          <a href="https://codingphase.com" target="_blank">
-                              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                          </a>
-                      </p>
-                      <p><strong>HTML, CSS, Javascript</strong></p>
-              <p>Description goes here</p>
-                  </div>
-              </td>
-              <td width="50%">
-                  <h3 align="center">Project 4</h3>
-                  <div align="center">  
-                      <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                          <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                      </a>
-                      <br>
-                      <br>
-                      <p>
-                          <a href="https://codingphase.com" target="_blank">
-                              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-                          </a>  
-                          <a href="https://codingphase.com" target="_blank">
-                              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                          </a>	
-                      </p>
-                      <p><strong>HTML, CSS, Javascript</strong></p>
-              <p>Description goes here</p>
-                  </div>	
-              </td>
-          </tr> -->
+            <td width="50%">
+                <h3 align="center">Project 1</h3>
+                <div align="center">  
+                    <a href='https://joseleoncodes.com/promotion-email-brooks/index.html' target="_blank">
+                        <img src="https://joseleoncodes.com/img/custom/brooks_thumbnail_sq.jpg" alt="project 1" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/brooks_email" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://joseleoncodes.com/promotion-email-brooks/index.html" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                        </a>
+                    </p>
+                    <p><strong>Brooks Email</strong></p>
+          <p>Promotional Email</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 2</h3>
+                <div align="center" >  
+                    <a href='https://joseleoncodes.com/transaction-email-north-face/index.html' target="_blank">
+                        <img src="https://joseleoncodes.com/img/custom/north-face-thumbnail.png" alt="project 2" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/northface_email" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://joseleoncodes.com/transaction-email-north-face/index.html" target="_blank">
+                            <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                        </a>	
+                    </p>
+                     <p><strong>
+                        The North Face Email</strong></p>
+                    <p>Transactional Email</p>
+                </div>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center">  
+                    <a href='https://joseleoncodes.com/newsletter-rh/index.html' target="_blank">
+                        <img src="https://joseleoncodes.com/img/custom/robinhood-thumbnail.webp" alt="project 1" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/robinhood_email" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://joseleoncodes.com/newsletter-rh/index.html" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                        </a>
+                    </p>
+                    <p><strong>Robinhood Email</strong></p>
+          <p>Newsletter Email</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center" >  
+                    <a href='https://joseleoncodes.com/newsletter-ds/index.html' target="_blank">
+                        <img src="https://joseleoncodes.com/img/custom/daily-stoic-thumbnail-sq.webp" alt="project 2" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/joseleoncodes/joseleoncodes/tree/main/dailystoic_email" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://joseleoncodes.com/newsletter-ds/index.html" target="_blank">
+                            <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                        </a>	
+                    </p>
+                     <p><strong>
+                        Daily Stoic Email</strong></p>
+                    <p>Newsletter Email</p>
+                </div>
+        </tr>
       </table>
   </div>
   <br />
