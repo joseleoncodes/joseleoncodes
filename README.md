@@ -3,8 +3,7 @@
   </div>
   <h1 align="center">Hi 👋, I'm Jose Leon</h1>
   <h3 align="center">An Email Developer from Baltimore, MD</h3>
-  <h4 align="center">
-    HTML Email Developer with knowledge of HTML, CSS, Salesforce, HTML Tables, CAN-SPAM, and Web Content Accessibility Guidelines (WCAG) who creates, proofs, tests, and troubleshoots responsive emails and templates across different mobile devices and email clients and performs quality assurance testing. <br> I am a self-taught Web Content Editor with expertise in healthcare and an MBA. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars. <br> <br> For the past 14 years, I’ve worked in very challenging and demanding healthcare roles including at Johns Hopkins and University of Maryland, in which the experience and skills I’ve gained are transferable to Web Development. </h4>
+  <h4 align="center">With knowledge of HTML, CSS, Salesforce, HTML Tables, CAN-SPAM, and Web Content Accessibility Guidelines (WCAG) who creates, proofs, tests, and troubleshoots responsive emails and templates across different mobile devices and email clients and performs quality assurance testing. <br>I have expertise in healthcare and an MBA. I'm passionate about web development, design, and business. I also enjoy cooking, traveling, and Star Wars. <br> <br>Some of my prior work experience includes working at Johns Hopkins and University of Maryland.</h4>
   
   <hr>
   
